@@ -3,8 +3,14 @@
 	font-family: 'Fuzzy Bubbles', cursive;
 }
 
-.card-title {
+.project-title {
 	text-align: center;
+	font-family: "Lora",serif;
+}
+
+.project-text{
+	text-align: center;
+	font-family: "Lora",serif;
 }
 
 #gmap_canvas {
@@ -22,6 +28,9 @@ html {
 
 
 
-h1,h2,h3,h4, .nav-link,.card-title {
+h1,h2,h3,h4, .nav-link {
 	font-family: "Lora",serif;
 }
+
+
+
