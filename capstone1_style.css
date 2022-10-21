@@ -3,20 +3,34 @@
 	font-family: 'Fuzzy Bubbles', cursive;
 }
 
+.projects-section {
+	background-color: darkgray ;
+}
+
 .project-title {
 	text-align: center;
-	font-family: "Lora",serif;
+	font-family: 'Poppins', sans-serif;
 }
 
-.project-text{
+.project-title {
 	text-align: center;
-	font-family: "Lora",serif;
+	font-family: 'Fuzzy Bubbles';
 }
 
-#gmap_canvas {
-	height: 60vh;
-	width: 100%;
+.project-text {
+	text-align: center;
+	font-family: 'Poppins', cursive;
 }
+
+.project-link {
+	text-align: center;
+	font-family: "Lora", serif;
+}
+
+#carouselExampleIndicators {
+	height: 60;
+}
+
 
 .fab {
 	font-size: 2rem;
